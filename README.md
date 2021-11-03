@@ -6,5 +6,4 @@ Things used:
               CSS
               BOOTSTRAP
               
- Link to the website:
               
