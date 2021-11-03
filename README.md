@@ -7,4 +7,4 @@ Things used:
               BOOTSTRAP
               
  Link to the website:
-              https://gatsbycoffeeproject.netlify.com/
+              
